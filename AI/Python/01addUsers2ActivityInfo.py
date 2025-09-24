@@ -2,7 +2,7 @@ import csv
 import requests
 import time
 
-# ========== CONFIGURATION ==========
+# ========== CONFIGURATIONS ==========
 
 API_TOKEN = "XXXXXXXXXXXXXXXXXXX"
 DATABASE_ID = "cqjj5vemfv8zsji3r"  # HPC.tools WIP Version 1 DB
